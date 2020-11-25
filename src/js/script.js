@@ -1,2 +1,3 @@
-//This is a js file
-// We are testing this file
+import App from './modules/app';
+
+const app = new App();
